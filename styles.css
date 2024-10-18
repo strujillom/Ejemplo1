@@ -1,0 +1,23 @@
+/* styles.css */
+
+h1 {
+    color: blue;
+    font-size: 36px;
+    text-align: center;
+    font-family: Helvetica , serif;
+  }
+
+
+body {
+    font-family: Arial , serif;
+    margin: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
